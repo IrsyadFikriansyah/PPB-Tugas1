@@ -1,16 +1,25 @@
-# test_app
+# PPB - Assignment 1
 
-A new Flutter project.
+Create a simple application (or clone clone from other project) that satisfies this requirement:
+- Uses at least five different widgets
+- Implements a custom class and a custom stateless widget
+- Supports Create, Read, Update, and Delete (CRUD) operations
+- record you application demo through zoom 1-2 minutes (to make sure it can be deployed in your emulator/physical device)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Awesome Quotes App
 
-A few resources to get you started if this is your first Flutter project:
+This is a quotes management app where users can add, edit, and delete their favorite quotes along with the author’s name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Reference:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Based on <a href="https://github.com/iamshaunjp/flutter-beginners-tutorial/tree/lesson-21">Flutter Beginners Tutorial by Shaun Pelling.</a>
+
+**Changes:**
+
+1. Fix the delete funtion
+2. Ability to add new quote cards
+3. Ability to edit existing quote cards
+4. Change the appeareance of the app a little bit
+
+the vid is on classroom submission attached with this repo link.
